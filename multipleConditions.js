@@ -20,6 +20,6 @@ else{
 }
 
 //today date check
-var date = new Date('1971-3-26');
+/*var date = new Date('1971-3-26');
 //var result = Math.round(number);
-console.log(date);
+console.log(date);*/
